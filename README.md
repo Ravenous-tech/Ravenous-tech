@@ -13,7 +13,6 @@ Olá! Me chamo Junior Oliveira, sou desenvolvedor Front end em desenvolvimento e
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Junior-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
   
   ##
