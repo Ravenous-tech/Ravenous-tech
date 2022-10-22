@@ -2,8 +2,8 @@
 Olá! Me chamo Junior Oliveira, sou desenvolvedor Front end em desenvolvimento e também possuo foco em UX / UI.
 <div align="center">
   <a href="https://github.com/Ravenous-tech">
-  <img width=42%" src="https://github-readme-stats.vercel.app/api?username=Ravenous-tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenous-tech&layout=compact&langs_count=7&theme=dark"/>
+  <img width=48%" src="https://github-readme-stats.vercel.app/api?username=Ravenous-tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenous-tech&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
